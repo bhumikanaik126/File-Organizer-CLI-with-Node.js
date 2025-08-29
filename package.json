@@ -1,0 +1,29 @@
+{
+  "name": "file-organizer-cli-with-node",
+  "version": "1.0.0",
+  "description": "**Command Line Tool** built with **Node.js** to organize files in any folder by their type (Images, Music, Videos, Docs, Archives, Code, etc.).",
+  "main": "index.js",
+
+  "bin": {
+    "organize": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhumikanaik126/File-Organizer-CLI-with-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhumikanaik126/File-Organizer-CLI-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/bhumikanaik126/File-Organizer-CLI-with-Node.js#readme",
+  "dependencies": {
+    "chalk": "^5.6.0"
+  }
+
+  
+}
